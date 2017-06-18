@@ -2,11 +2,11 @@
 #ifndef EXTERNALS
 #define EXTERNALS
 
-#include <fcntl.h> // for open
-#include <unistd.h> // for close
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+#include <signal.h>
+#include <unistd.h>
 
 /* prototypes */
 
